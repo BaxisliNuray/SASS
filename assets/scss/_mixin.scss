@@ -1,0 +1,9 @@
+@mixin buton ($btn-bgc) {
+color: white;
+border: none;
+background-color: $btn-bgc;
+cursor: pointer;
+border-radius: 50px;
+padding: 9px 23px;
+margin-left: 25px;
+}
